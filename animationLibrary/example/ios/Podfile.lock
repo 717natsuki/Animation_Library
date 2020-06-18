@@ -1,0 +1,22 @@
+PODS:
+  - animationLibrary (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - animationLibrary (from `.symlinks/plugins/animationLibrary/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  animationLibrary:
+    :path: ".symlinks/plugins/animationLibrary/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  animationLibrary: 1034e5d51cbfddab1d1a6190eaa5f99813f8d062
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.1
