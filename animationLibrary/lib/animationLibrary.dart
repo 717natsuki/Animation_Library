@@ -2,6 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 
 import 'package:flutter/services.dart';
+import 'package:flare_flutter/flare_actor.dart';
 
 
 
@@ -14,7 +15,23 @@ class _NatsukiState extends State<Natsuki> {
   @override
   Widget build(BuildContext context) {
     return Container(child:
-      Text("natsuuuuuu"),);
+    Column(
+      children: <Widget>[
+        Text("he"),
+//        Image(image: AssetImage('assets/screen.png')),
+        Container(
+          width: 450,
+          height: 300,
+          child: FlareActor(
+            'assets/Space.flr',
+            animation: 'Untitled',
+            alignment: Alignment.center,
+            fit: BoxFit.contain,
+          ),
+        ),
+        Text("aaa")
+      ],
+    ));
   }
 }
 
