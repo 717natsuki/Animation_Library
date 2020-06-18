@@ -1,9 +1,9 @@
 # 👏 Animation Library
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/xsahil03x) [![Twitter](https://img.shields.io/twitter/url/https/github.com/xsahil03x/giffy_dialog.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fxsahil03x%2Fgiffy_dialog)
 
-<p>A beautiful and custom alert dialog for flutter highly inspired from <a href="https://github.com/Shashank02051997/FancyGifDialog-Android">FancyAlertDialog-Android</a>.</p>
+<p>A beautiful animation widget <a href="https://github.com/717natsuki/Animation_Library/edit/master/README.md">Animation_Library</a>.</p>
 
-The source code is **100% Dart**, and everything resides in the [/lib](https://github.com/xsahil03x/giffy_dialog/tree/master/lib) folder.
+The source code is **100% Dart**, and everything resides in the [/lib](https://github.com/717natsuki/Animation_Library/tree/master/animationLibrary/lib) folder.
 
 
 ### Show some :heart: and star the repo to support the project
