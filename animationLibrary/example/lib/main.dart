@@ -3,6 +3,7 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:animationLibrary/animationLibrary.dart';
+import 'package:flare_flutter/flare_actor.dart';
 
 void main() {
   runApp(MyApp());
@@ -52,6 +53,17 @@ class _MyAppState extends State<MyApp> {
         body: Center(
           child: Column(
             children: <Widget>[
+              Container(
+                width: 450,
+                height: 300,
+                child: FlareActor(
+                  'assets/Success',
+                  animation: 'Untitled',
+                  alignment: Alignment.center,
+                  fit: BoxFit.contain,
+                ),
+              ),
+
               Natsuki(),
               Text('Running on: $_platformVersion\n'),
             ],
