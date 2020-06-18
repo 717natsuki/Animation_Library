@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:animationLibrary/animationLibrary.dart';
+import 'package:animation_library/animation_library.dart';
 import 'package:flare_flutter/flare_actor.dart';
 
 void main() {
@@ -20,52 +20,24 @@ class _MyAppState extends State<MyApp> {
   @override
   void initState() {
     super.initState();
-    initPlatformState();
   }
 
-  // Platform messages are asynchronous, so we initialize in an async method.
-  Future<void> initPlatformState() async {
-    String platformVersion;
-    // Platform messages may fail, so we use a try/catch PlatformException.
-    try {
-      platformVersion = await AnimationLibrary.platformVersion;
-    } on PlatformException {
-      platformVersion = 'Failed to get platform version.';
-    }
-
-    // If the widget was removed from the tree while the asynchronous platform
-    // message was in flight, we want to discard the reply rather than calling
-    // setState to update our non-existent appearance.
-    if (!mounted) return;
-
-    setState(() {
-      _platformVersion = platformVersion;
-    });
-  }
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Plugin exaplaae app'),
-        ),
         body: Center(
           child: Column(
             children: <Widget>[
-              Container(
-                width: 450,
-                height: 300,
-                child: FlareActor(
-                  'assets/Success',
-                  animation: 'Untitled',
-                  alignment: Alignment.center,
-                  fit: BoxFit.contain,
-                ),
-              ),
 
-              Natsuki(),
-              Text('Running on: $_platformVersion\n'),
+
+              AnimationWidget(
+                  type:"Space",
+                  width: 200,
+                height:300,
+                movement: "normal",
+              ),
             ],
           ),
         ),

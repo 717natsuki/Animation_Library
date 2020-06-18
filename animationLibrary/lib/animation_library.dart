@@ -6,30 +6,33 @@ import 'package:flare_flutter/flare_actor.dart';
 
 
 
-class Natsuki extends StatefulWidget {
+class AnimationWidget extends StatefulWidget {
+  AnimationWidget({this.type, this.width, this.height, this.movement});
+  final String type;
+  final double width;
+  final double height;
+  final String movement;
+
   @override
-  _NatsukiState createState() => _NatsukiState();
+  _AnimationWidgetState createState() => _AnimationWidgetState();
 }
 
-class _NatsukiState extends State<Natsuki> {
+class _AnimationWidgetState extends State<AnimationWidget> {
   @override
   Widget build(BuildContext context) {
     return Container(child:
     Column(
       children: <Widget>[
-        Text("he"),
-//        Image(image: AssetImage('assets/screen.png')),
         Container(
-          width: 450,
-          height: 300,
+          width: widget.width,
+          height: widget.height,
           child: FlareActor(
-            'assets/Space.flr',
-            animation: 'Untitled',
+            'assets/${widget.type}',
+            animation: widget.movement,
             alignment: Alignment.center,
             fit: BoxFit.contain,
           ),
         ),
-        Text("aaa")
       ],
     ));
   }
