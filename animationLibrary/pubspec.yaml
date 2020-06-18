@@ -1,0 +1,27 @@
+name: animation_library
+description: Flutter Package for animation
+version: 0.0.1
+homepage: https://github.com/717natsuki
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flare_flutter: ^2.0.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.example.animationLibrary
+        pluginClass: AnimationLibraryPlugin
+      ios:
+        pluginClass: AnimationLibraryPlugin
