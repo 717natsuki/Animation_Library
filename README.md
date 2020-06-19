@@ -8,19 +8,11 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 ### Show some :heart: and star the repo to support the project
 
-<iframe src="http://ghbtns.com/github-btn.html?user=717natsuki&repo=Animation_Library&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/717natsuki/Animation_Library" data-size="large" data-show-count="true" aria-label="Star 717natsuki/Animation_Library on GitHub">Star</a>
-
-
-
-<iframe src="http://ghbtns.com/github-btn.html?user=717natsuki&repo=Animation_Library&type=watch&count=true"
-  allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
 
 [![GitHub stars](https://img.shields.io/github/stars/xsahil03x/giffy_dialog.svg?style=social&label=Star)](https://github.com/717natsuki/Animation_Library) 
 
-[![GitHub forks](https://img.shields.io/github/forks/717natsuki/Animation_Library.svg?style=social&label=Fork)](https://github.com/717natsuki/Animation_Library/fork) 
+[![GitHub forks](https://img.shields.io/github/forks/717natsuki/Animation_Library.svg?style=social&label=Fork)](https://github.com/717natsuki/Animation_Library) 
 
 [![GitHub watchers]
 (https://img.shields.io/github/watchers/xsahil03x/giffy_dialog.svg?style=social&label=Watch)](https://github.com/xsahil03x/giffy_dialog) [![GitHub followers](https://img.shields.io/github/followers/xsahil03x.svg?style=social&label=Follow)](https://github.com/xsahil03x/giffy_dialog)  
