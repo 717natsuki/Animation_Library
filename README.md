@@ -12,9 +12,6 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 [![GitHub forks](https://img.shields.io/github/forks/717natsuki/YoutubePlaylist.svg?style=social&label=Fork)](https://github.com/717natsuki/Animation_Library/fork) 
 
-[![GitHub watchers]
-(https://img.shields.io/github/watchers/717natsuki/YoutubePlaylist.svg?style=social&label=Watch)](https://github.com/717natsuki/Animation_Library)
-
 [![GitHub followers](https://img.shields.io/github/followers/717natsuki.svg?style=social&label=Follow)](https://github.com/717natsuki/YoutubePlaylist)  
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/BST)
