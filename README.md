@@ -8,20 +8,21 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 ### Show some :heart: and star the repo to support the project
 
+[![GitHub stars](https://img.shields.io/github/stars/717natsuki/YoutubePlaylist.svg?style=social&label=Star)](https://github.com/717natsuki/Animation_Library) 
 
-
-[![GitHub stars](https://img.shields.io/github/stars/xsahil03x/giffy_dialog.svg?style=social&label=Star)](https://github.com/717natsuki/Animation_Library) 
-
-[![GitHub forks](https://img.shields.io/github/forks/717natsuki/Animation_Library.svg?style=social&label=Fork)](https://github.com/717natsuki/Animation_Library) 
+[![GitHub forks](https://img.shields.io/github/forks/717natsuki/YoutubePlaylist.svg?style=social&label=Fork)](https://github.com/717natsuki/Animation_Library/fork) 
 
 [![GitHub watchers]
-(https://img.shields.io/github/watchers/xsahil03x/giffy_dialog.svg?style=social&label=Watch)](https://github.com/xsahil03x/giffy_dialog) [![GitHub followers](https://img.shields.io/github/followers/xsahil03x.svg?style=social&label=Follow)](https://github.com/xsahil03x/giffy_dialog)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/xsahil03x.svg?style=social)](https://twitter.com/xsahil03x)
+(https://img.shields.io/github/watchers/717natsuki/YoutubePlaylist.svg?style=social&label=Watch)](https://github.com/717natsuki/Animation_Library)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/MIT)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/xsahil03x/giffy_dialog/blob/master/LICENSE)
-[![Build Status](https://travis-ci.com/xsahil03x/giffy_dialog.svg?branch=master)](https://travis-ci.com/xsahil03x/giffy_dialog)
-[![CodeCov](https://codecov.io/gh/xsahil03x/giffy_dialog/branch/master/graph/badge.svg)](https://codecov.io/gh/xsahil03x/giffy_dialog)
+[![GitHub followers](https://img.shields.io/github/followers/717natsuki.svg?style=social&label=Follow)](https://github.com/717natsuki/YoutubePlaylist)  
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/BST)
+[![License](https://img.shields.io/badge/license-BST-blue.svg)](https://github.com/717natsuki/YoutubePlaylist/blob/master/LICENSE)
+
+[![Build Status](https://travis-ci.com/717natsuki/YoutubePlaylist.svg?branch=master)](https://travis-ci.com/717natsuki/Animation_Library)
+
+[![CodeCov](https://codecov.io/gh/717natsuki/YoutubePlaylist/branch/master/graph/badge.svg)](https://codecov.io/gh/717natsuki/Animation_Library)
 
 # 💻 Installation
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
