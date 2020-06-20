@@ -126,7 +126,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/717natsuki"><img src="https://avatars3.githubusercontent.com/u/24019688?v=4" width="100px;" alt=""/><br /><sub><b>717natsuki</b></sub></a><br /><a href="https://github.com/717natsuki/animation_library/commits?author=717natsuki" title="Documentation">📖</a> <a href="#ideas-717natsuki" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/717natsuki"><img src="https://avatars3.githubusercontent.com/u/48721079?s=460&u=b512fd4b3018c26dac2e438f4a0c4e52b3dadf29&v=4" width="100px;" alt=""/><br /><sub><b>717natsuki</b></sub></a><br /><a href="https://github.com/717natsuki/animation_library/commits?author=717natsuki" title="Documentation">📖</a> <a href="#ideas-717natsuki" title="Ideas, Planning, & Feedback">🤔</a></td>
  
   
   </tr>
