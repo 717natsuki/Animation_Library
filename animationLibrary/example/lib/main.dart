@@ -33,10 +33,10 @@ class _MyAppState extends State<MyApp> {
 
 
               AnimationWidget(
-                  type:"Space",
-                  width: 200,
-                height:300,
-                movement: "normal",
+                  type:"purple",
+                  width: 500,
+                height:500,
+                movement: "startup",
               ),
             ],
           ),

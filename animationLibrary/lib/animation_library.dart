@@ -13,6 +13,8 @@ class AnimationWidget extends StatefulWidget {
   final double height;
   final String movement;
 
+
+  
   @override
   _AnimationWidgetState createState() => _AnimationWidgetState();
 }
