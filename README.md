@@ -24,11 +24,11 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 # 💻 Installation
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
-[![Version](https://img.shields.io/pub/v/giffy_dialog.svg)](https://pub.dartlang.org/packages/giffy_dialog)
+[![Version](https://img.shields.io/pub/v/animation_library.svg)](https://pub.dartlang.org/packages/animation_library)
 
 ```yaml
 dependencies:
-  giffy_dialog: <latest version>
+  animation_library: <latest version>
 ```
 
 
@@ -37,7 +37,7 @@ dependencies:
 ### Import this class
 
 ```dart
-import 'package:giffy_dialog/giffy_dialog.dart';
+import 'package:animation_library/animation_library.dart';
 ```
 
 ### Network giffy dialog
