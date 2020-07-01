@@ -40,31 +40,6 @@ dependencies:
 import 'package:animation_library/animation_library.dart';
 ```
 
-### Network giffy dialog
-
-<img src="https://user-images.githubusercontent.com/25670178/51350453-379afc80-1ace-11e9-91b4-3ceea44e7bad.gif" align = "right" height = "350" alt="Network">
-
-```dart
-onPressed: () {
-  showDialog(
-  context: context,builder: (_) => NetworkGiffyDialog(
-    imageUrl:"https://raw.githubusercontent.com/Shashank02051997/
-              FancyGifDialog-Android/master/GIF's/gif14.gif",
-    title: Text('Granny Eating Chocolate',
-            textAlign: TextAlign.center,
-            style: TextStyle(
-            fontSize: 22.0,
-            fontWeight: FontWeight.w600)),
-    description:Text('This is a granny eating chocolate dialog box.
-          This library helps you easily create fancy giffy dialog',
-          textAlign: TextAlign.center,
-        ),
-    entryAnimation: EntryAnimation.BOTTOM_TOP,
-    onOkButtonPressed: () {},
-  ) );
-}
-```
-
 ### Flutter Animation Library
 
 <img src="https://user-images.githubusercontent.com/25670178/51350659-c576e780-1ace-11e9-94f2-ce463af2218a.gif" align = "right" height = "350" alt="Flare">
