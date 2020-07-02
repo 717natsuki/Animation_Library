@@ -50,9 +50,11 @@ import 'package:animation_library/animation_library.dart';
 
 ### Flutter Animation Library
 
-<img src="space.gif" align = "right" height = "350" alt="Flare">
+<img src="space.gif" align = "right" height = "200" alt="Flare">
 
 ```dart
+
+
 
 AnimationWidget(
     type:"purple",
@@ -60,11 +62,16 @@ AnimationWidget(
   height:500,
   movement: "startup",
 ),
+
+
+
 ```
 
-<img src="computer.gif" align = "right" height = "350" alt="Flare">
+<img src="computer.gif" align = "right" height = "200" alt="Flare">
 
 ```dart
+
+
 
 AnimationWidget(
     type:"purple",
@@ -72,6 +79,9 @@ AnimationWidget(
   height:500,
   movement: "startup",
   ),
+  
+  
+  
 ```
 
 # 👍 How to Contribute
