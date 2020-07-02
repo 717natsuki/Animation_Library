@@ -53,26 +53,26 @@ import 'package:animation_library/animation_library.dart';
 <img src="space.gif" align = "right" height = "350" alt="Flare">
 
 ```dart
-onPressed: () {
-  showDialog(
-  context: context,builder: (_) => FlareGiffyDialog(
-    flarePath: 'assets/space_demo.flr',
-    flareAnimation: 'loading',
-    title: Text('Space Reloading',
-           style: TextStyle(
-           fontSize: 22.0, fontWeight: FontWeight.w600),
-    ),
-    description: Text('This is a space reloading dialog box.
-          This library helps you easily create fancy flare dialog.',
-          textAlign: TextAlign.center,
-          style: TextStyle(),
-        ),
-    entryAnimation: EntryAnimation.DEFAULT,
-    onOkButtonPressed: () {},
-  ) );
-}
+
+AnimationWidget(
+    type:"purple",
+    width: 500,
+  height:500,
+  movement: "startup",
+),
 ```
 
+<img src="computer.gif" align = "right" height = "350" alt="Flare">
+
+```dart
+
+AnimationWidget(
+    type:"purple",
+    width: 500,
+  height:500,
+  movement: "startup",
+  ),
+```
 
 # 👍 How to Contribute
 If you are interested in contributing to the project, please read [Contributing guide](CONTRIBUTING.md) and let us know!
