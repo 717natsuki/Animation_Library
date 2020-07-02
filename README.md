@@ -31,6 +31,14 @@ dependencies:
   animation_library: <latest version>
 ```
 
+Place this folder [this](https://github.com/717natsuki/Animation_Library/tree/master/animationLibrary/example/assets) under your top directory
+
+Also add this section of your `pubspec.yaml`, and the following line:
+```
+flutter:
+  assets:
+    - assets/
+```
 
 # ❔ Usage
 
@@ -65,29 +73,6 @@ onPressed: () {
 }
 ```
 
-### Asset giffy dialog
-
-<img src="https://user-images.githubusercontent.com/25670178/51350846-4504b680-1acf-11e9-8f9d-d6704742ff21.gif" align = "right" height = "350" alt="Asset">
-
-```dart
-onPressed: () {
-  showDialog(
-  context: context,builder: (_) => AssetGiffyDialog(
-    imagePath: 'assets/men_wearing_jacket.gif',
-    title: Text('Men Wearing Jackets',
-            style: TextStyle(
-            fontSize: 22.0, fontWeight: FontWeight.w600),
-    ),
-    description: Text('This is a men wearing jackets dialog box.
-          This library helps you easily create fancy giffy dialog.',
-          textAlign: TextAlign.center,
-          style: TextStyle(),
-        ),
-    entryAnimation: EntryAnimation.RIGHT_LEFT,
-    onOkButtonPressed: () {},
-  ) );
-}
-```
 
 # 👍 How to Contribute
 If you are interested in contributing to the project, please read [Contributing guide](CONTRIBUTING.md) and let us know!
