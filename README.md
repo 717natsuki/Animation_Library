@@ -50,7 +50,7 @@ import 'package:animation_library/animation_library.dart';
 
 ### Flutter Animation Library
 
-<img src="https://user-images.githubusercontent.com/25670178/51350659-c576e780-1ace-11e9-94f2-ce463af2218a.gif" align = "right" height = "350" alt="Flare">
+<img src="space.gif" align = "right" height = "350" alt="Flare">
 
 ```dart
 onPressed: () {
