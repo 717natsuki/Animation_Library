@@ -65,6 +65,7 @@ import 'package:animation_library/animation_library.dart';
 ```dart
 
 
+
 AnimationWidget(
     type:"Space",
     width: 500,
@@ -83,7 +84,6 @@ Created by Tani Magdieva [Licence](https://creativecommons.org/licenses/by/4.0/)
 <img src="computer.gif" align = "right" height = "200" alt="Flare">
 
 ```dart
-
 
 
 AnimationWidget(
