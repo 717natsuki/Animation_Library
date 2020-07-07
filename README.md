@@ -101,6 +101,7 @@ Created by Cas van Luijtelaar [Licence](https://creativecommons.org/licenses/by/
 
 # 👍 How to Contribute
 If you are interested in contributing to the project, please read [Contributing guide](CONTRIBUTING.md) and let us know!
+Please send a pull-request to contribute!
 
 ## Contributors ✨
 
