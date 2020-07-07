@@ -52,6 +52,7 @@ import 'package:animation_library/animation_library.dart';
 
 <img src="space.gif" align = "right" height = "200" alt="Flare">
 
+
 ```dart
 
 
@@ -66,6 +67,8 @@ AnimationWidget(
 
 
 ```
+Created by Tani Magdieva [Licence](https://creativecommons.org/licenses/by/4.0/)
+
 
 <img src="computer.gif" align = "right" height = "200" alt="Flare">
 
