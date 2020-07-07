@@ -30,8 +30,6 @@ class _MyAppState extends State<MyApp> {
         body: Center(
           child: Column(
             children: <Widget>[
-
-
               AnimationWidget(
                   type:"programming",
                   width: 500,

@@ -1,6 +1,6 @@
 name: animation_library
-description: Flutter Package for animation
-version: 0.0.2
+description:  Flutter Package for animation. You could use a responsive and animations that are beautifully designed by many artists in Flare/Rive.
+version: 0.1.0
 homepage: https://github.com/717natsuki
 environment:
   sdk: ">=2.7.0 <3.0.0"
