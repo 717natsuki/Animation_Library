@@ -6,7 +6,7 @@
 The source code is **100% Dart**, and everything resides in the [/lib](https://github.com/717natsuki/Animation_Library/tree/master/animationLibrary/lib) folder.
 
 
-### Show some :heart: and star the repo to support the project
+## Show some :heart: and star the repo to support the project
 
 [![GitHub stars](https://img.shields.io/github/stars/717natsuki/YoutubePlaylist.svg?style=social&label=Star)](https://github.com/717natsuki/Animation_Library) 
 
@@ -42,15 +42,15 @@ flutter:
 
 # ❔ Usage
 
-### Import this class
+## Import this class
 
 ```dart
 import 'package:animation_library/animation_library.dart';
 ```
 
-### Flutter Animation Library
+## Flutter Animation Library
 
-#### Space
+### <ins>Space</ins>
 <img src="space.gif" align = "right" height = "200" alt="Flare">
 
 
@@ -72,7 +72,7 @@ Created by Tani Magdieva [Licence](https://creativecommons.org/licenses/by/4.0/)
 
 
 
-#### Computer
+### Computer
 <img src="computer.gif" align = "right" height = "200" alt="Flare">
 
 ```dart
