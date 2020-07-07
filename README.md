@@ -100,7 +100,6 @@ Created by Cas van Luijtelaar [Licence](https://creativecommons.org/licenses/by/
 
 # 👍 How to Contribute
 Please send a pull-request to contribute!
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## Contributors ✨
 
