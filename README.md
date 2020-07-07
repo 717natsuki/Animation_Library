@@ -65,7 +65,6 @@ import 'package:animation_library/animation_library.dart';
 ```dart
 
 
-
 AnimationWidget(
     type:"Space",
     width: 500,
