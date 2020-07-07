@@ -59,10 +59,10 @@ import 'package:animation_library/animation_library.dart';
 
 
 AnimationWidget(
-    type:"purple",
+    type:"Space",
     width: 500,
   height:500,
-  movement: "startup",
+  movement: "init",
 ),
 
 
@@ -72,7 +72,7 @@ Created by Tani Magdieva [Licence](https://creativecommons.org/licenses/by/4.0/)
 
 
 
-### Computer
+### <ins>Computer</ins>
 <img src="computer.gif" align = "right" height = "200" alt="Flare">
 
 ```dart
@@ -89,6 +89,7 @@ AnimationWidget(
   
   
 ```
+Created by Cas van Luijtelaar [Licence](https://creativecommons.org/licenses/by/4.0/)
 
 # 👍 How to Contribute
 If you are interested in contributing to the project, please read [Contributing guide](CONTRIBUTING.md) and let us know!
