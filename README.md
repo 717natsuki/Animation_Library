@@ -85,6 +85,7 @@ Created by Tani Magdieva [Licence](https://creativecommons.org/licenses/by/4.0/)
 
 ```dart
 
+ 
 
 AnimationWidget(
     type:"purple",
@@ -92,7 +93,6 @@ AnimationWidget(
   height:500,
   movement: "startup",
   ),
-  
   
   
 ```
