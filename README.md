@@ -31,7 +31,15 @@ dependencies:
   animation_library: <latest version>
 ```
 
-Place this folder [this](https://github.com/717natsuki/Animation_Library/tree/master/animationLibrary/example/assets) under your top directory
+Place this folder [this](https://github.com/717natsuki/Animation_Library/tree/master/animationLibrary/example/assets) under your top directory just like the below
+```
+- [app name]
+  - android
+  - ios
+  - build
+  - assets
+```
+
 
 Also add this section of your `pubspec.yaml`, and the following line:
 ```
