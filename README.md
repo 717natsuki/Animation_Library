@@ -50,6 +50,7 @@ import 'package:animation_library/animation_library.dart';
 
 ### Flutter Animation Library
 
+#### Space
 <img src="space.gif" align = "right" height = "200" alt="Flare">
 
 
@@ -70,6 +71,8 @@ AnimationWidget(
 Created by Tani Magdieva [Licence](https://creativecommons.org/licenses/by/4.0/)
 
 
+
+#### Computer
 <img src="computer.gif" align = "right" height = "200" alt="Flare">
 
 ```dart
