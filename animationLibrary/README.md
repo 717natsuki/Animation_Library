@@ -8,18 +8,18 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 ## Show some :heart: and star the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/717natsuki/YoutubePlaylist.svg?style=social&label=Star)](https://github.com/717natsuki/Animation_Library)
+[![GitHub stars](https://img.shields.io/github/stars/717natsuki/Animation_Library.svg?style=social&label=Star)](https://github.com/717natsuki/Animation_Library)
 
-[![GitHub forks](https://img.shields.io/github/forks/717natsuki/YoutubePlaylist.svg?style=social&label=Fork)](https://github.com/717natsuki/Animation_Library/fork)
+[![GitHub forks](https://img.shields.io/github/forks/717natsuki/Animation_Library.svg?style=social&label=Fork)](https://github.com/717natsuki/Animation_Library/fork)
 
-[![GitHub followers](https://img.shields.io/github/followers/717natsuki.svg?style=social&label=Follow)](https://github.com/717natsuki/YoutubePlaylist)
+[![GitHub followers](https://img.shields.io/github/followers/717natsuki.svg?style=social&label=Follow)](https://github.com/717natsuki/Animation_Library)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/BST)
-[![License](https://img.shields.io/badge/license-BST-blue.svg)](https://github.com/717natsuki/YoutubePlaylist/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-BST-blue.svg)](https://github.com/717natsuki/Animation_Library/blob/master/LICENSE)
 
-[![Build Status](https://travis-ci.com/717natsuki/YoutubePlaylist.svg?branch=master)](https://travis-ci.com/717natsuki/Animation_Library)
+[![Build Status](https://travis-ci.com/717natsuki/Animation_Library.svg?branch=master)](https://travis-ci.com/717natsuki/Animation_Library)
 
-[![CodeCov](https://codecov.io/gh/717natsuki/YoutubePlaylist/branch/master/graph/badge.svg)](https://codecov.io/gh/717natsuki/Animation_Library)
+[![CodeCov](https://codecov.io/gh/717natsuki/Animation_Library/branch/master/graph/badge.svg)](https://codecov.io/gh/717natsuki/Animation_Library)
 
 # 💻 Installation
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
@@ -59,7 +59,7 @@ import 'package:animation_library/animation_library.dart';
 ## Flutter Animation Library
 
 ### <ins>Space</ins>
-<img src="https://github.com/717natsuki/Animation_Library/blob/master/space.gif" align = "right" height = "200" alt="Flare">
+<img src="space.gif" align = "right" height = "200" alt="Flare">
 
 
 ```dart
@@ -81,7 +81,7 @@ Created by Tani Magdieva [Licence](https://creativecommons.org/licenses/by/4.0/)
 
 
 ### <ins>Computer</ins>
-<img src="https://github.com/717natsuki/Animation_Library/blob/master/computer.gif" align = "right" height = "200" alt="Flare">
+<img src="computer.gif" align = "right" height = "200" alt="Flare">
 
 ```dart
 
@@ -95,12 +95,10 @@ AnimationWidget(
   ),
 
 
-
 ```
 Created by Cas van Luijtelaar [Licence](https://creativecommons.org/licenses/by/4.0/)
 
 # 👍 How to Contribute
-If you are interested in contributing to the project, please read [Contributing guide](CONTRIBUTING.md) and let us know!
 Please send a pull-request to contribute!
 
 ## Contributors ✨
