@@ -1,25 +1,25 @@
 # 👏 Animation Library
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/xsahil03x) [![Twitter](https://img.shields.io/twitter/url/https/github.com/xsahil03x/giffy_dialog.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fxsahil03x%2Fgiffy_dialog)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/717natsuki%40gmail.com) [![Twitter](https://img.shields.io/twitter/url/https/github.com/xsahil03x/giffy_dialog.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fxsahil03x%2Fgiffy_dialog)
 
 <p>A beautiful animation widget <a href="https://github.com/717natsuki/Animation_Library/edit/master/README.md">Animation_Library</a>.</p>
 
 The source code is **100% Dart**, and everything resides in the [/lib](https://github.com/717natsuki/Animation_Library/tree/master/animationLibrary/lib) folder.
 
 
-### Show some :heart: and star the repo to support the project
+## Show some :heart: and star the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/717natsuki/YoutubePlaylist.svg?style=social&label=Star)](https://github.com/717natsuki/Animation_Library) 
+[![GitHub stars](https://img.shields.io/github/stars/717natsuki/Animation_Library.svg?style=social&label=Star)](https://github.com/717natsuki/Animation_Library) 
 
-[![GitHub forks](https://img.shields.io/github/forks/717natsuki/YoutubePlaylist.svg?style=social&label=Fork)](https://github.com/717natsuki/Animation_Library/fork) 
+[![GitHub forks](https://img.shields.io/github/forks/717natsuki/Animation_Library.svg?style=social&label=Fork)](https://github.com/717natsuki/Animation_Library/fork) 
 
-[![GitHub followers](https://img.shields.io/github/followers/717natsuki.svg?style=social&label=Follow)](https://github.com/717natsuki/YoutubePlaylist)  
+[![GitHub followers](https://img.shields.io/github/followers/717natsuki.svg?style=social&label=Follow)](https://github.com/717natsuki/Animation_Library)  
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/BST)
-[![License](https://img.shields.io/badge/license-BST-blue.svg)](https://github.com/717natsuki/YoutubePlaylist/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-BST-blue.svg)](https://github.com/717natsuki/Animation_Library/blob/master/LICENSE)
 
-[![Build Status](https://travis-ci.com/717natsuki/YoutubePlaylist.svg?branch=master)](https://travis-ci.com/717natsuki/Animation_Library)
+[![Build Status](https://travis-ci.com/717natsuki/Animation_Library.svg?branch=master)](https://travis-ci.com/717natsuki/Animation_Library)
 
-[![CodeCov](https://codecov.io/gh/717natsuki/YoutubePlaylist/branch/master/graph/badge.svg)](https://codecov.io/gh/717natsuki/Animation_Library)
+[![CodeCov](https://codecov.io/gh/717natsuki/Animation_Library/branch/master/graph/badge.svg)](https://codecov.io/gh/717natsuki/Animation_Library)
 
 # 💻 Installation
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
@@ -31,7 +31,15 @@ dependencies:
   animation_library: <latest version>
 ```
 
-Place this folder [this](https://github.com/717natsuki/Animation_Library/tree/master/animationLibrary/example/assets) under your top directory
+Place this folder [this](https://github.com/717natsuki/Animation_Library/tree/master/animationLibrary/example/assets) under your top directory just like the below
+```
+- [app name]
+  - android
+  - ios
+  - build
+  - assets
+```
+
 
 Also add this section of your `pubspec.yaml`, and the following line:
 ```
@@ -42,36 +50,42 @@ flutter:
 
 # ❔ Usage
 
-### Import this class
+## Import this class
 
 ```dart
 import 'package:animation_library/animation_library.dart';
 ```
 
-### Flutter Animation Library
+## Flutter Animation Library
 
+### <ins>Space</ins>
 <img src="space.gif" align = "right" height = "200" alt="Flare">
+
 
 ```dart
 
 
 
 AnimationWidget(
-    type:"purple",
+    type:"Space",
     width: 500,
   height:500,
-  movement: "startup",
+  movement: "init",
 ),
 
 
 
 ```
+Created by Tani Magdieva [Licence](https://creativecommons.org/licenses/by/4.0/)
 
+
+
+### <ins>Computer</ins>
 <img src="computer.gif" align = "right" height = "200" alt="Flare">
 
 ```dart
 
-
+ 
 
 AnimationWidget(
     type:"purple",
@@ -81,11 +95,11 @@ AnimationWidget(
   ),
   
   
-  
 ```
+Created by Cas van Luijtelaar [Licence](https://creativecommons.org/licenses/by/4.0/)
 
 # 👍 How to Contribute
-If you are interested in contributing to the project, please read [Contributing guide](CONTRIBUTING.md) and let us know!
+Please send a pull-request to contribute!
 
 ## Contributors ✨
 
